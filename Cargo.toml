@@ -1,0 +1,10 @@
+[package]
+name = "crypt"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rand = "0.10.1"
+rustsat = "0.7.5"
+rustsat-minisat = "0.7.5"
+sha2 = "0.11.0"
